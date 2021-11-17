@@ -1,0 +1,1 @@
+//email detail page
